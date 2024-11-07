@@ -34,7 +34,7 @@ class Program
         Boolean loop = true;
         while(loop == true)
         {
-            if(Console.ReadKey().Key == ConsoleKey.Enter)
+            if(Console.ReadKey(true).Key == ConsoleKey.Enter)//added "true" to make the actual keys pressed not show up as it looks bad - only the scores
             {
                 File.WriteAllText(file, score.ToString()); //write everything to a file
                 Console.WriteLine($"\nYour score of {score} has been saved in {file}. Thanks for playing!");

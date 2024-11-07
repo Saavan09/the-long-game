@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("longgame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5d9dd4079a2a10f571de55d410e36fe95b64b5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6754389e437739330700e5aa6b4e9bf42ed5bab")]
 [assembly: System.Reflection.AssemblyProductAttribute("longgame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("longgame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
