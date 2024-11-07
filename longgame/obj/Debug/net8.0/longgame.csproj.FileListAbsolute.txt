@@ -1,0 +1,15 @@
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\the-long-game\longgame\bin\Debug\net8.0\longgame.exe
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\the-long-game\longgame\bin\Debug\net8.0\longgame.deps.json
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\the-long-game\longgame\bin\Debug\net8.0\longgame.runtimeconfig.json
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\the-long-game\longgame\bin\Debug\net8.0\longgame.dll
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\the-long-game\longgame\bin\Debug\net8.0\longgame.pdb
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\the-long-game\longgame\obj\Debug\net8.0\longgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\the-long-game\longgame\obj\Debug\net8.0\longgame.AssemblyInfoInputs.cache
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\the-long-game\longgame\obj\Debug\net8.0\longgame.AssemblyInfo.cs
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\the-long-game\longgame\obj\Debug\net8.0\longgame.csproj.CoreCompileInputs.cache
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\the-long-game\longgame\obj\Debug\net8.0\longgame.sourcelink.json
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\the-long-game\longgame\obj\Debug\net8.0\longgame.dll
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\the-long-game\longgame\obj\Debug\net8.0\refint\longgame.dll
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\the-long-game\longgame\obj\Debug\net8.0\longgame.pdb
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\the-long-game\longgame\obj\Debug\net8.0\longgame.genruntimeconfig.cache
+C:\Users\trave\OneDrive\Desktop\ClassDocs\C#\THUB\the-long-game\longgame\obj\Debug\net8.0\ref\longgame.dll
